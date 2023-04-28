@@ -1,0 +1,156 @@
+/* Global styles */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/* Header styles */
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+header h1 {
+    text-align : center;
+    margin-right : 32px;
+}
+header button{
+    position: absolute;
+    top: 32px;
+    right: 32px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+/* Main styles */
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input, textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+button[type="submit"], button[type="reset"] {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button[type="submit"]:hover, button[type="reset"]:hover {
+	background-color: #555;
+}
+
+
+.homebutton{
+    padding: 10px 20px;
+    font-family: 'Secular One', sans-seri;
+    font-size: large;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+
+
+footer {
+	
+	bottom: 0;
+	width: 100%;
+    background-color: #8a8989;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+	
+  }
+
+
+
+  /* csss */
+
+  .container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 50px 20px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+}
+
+.social-media {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+}
+
+.social-media li {
+	margin: 0 10px;
+}
+
+.social-media li a {
+	display: block;
+	background-color: #3b5998;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+	color: #fff;
+	transition: all 0.3s ease-in-out;
+}
+
+.social-media li a:hover {
+	background-color: #fff;
+	color: #3b5998;
+}
+
+
+.contactd{
+	font-family: 'Lobster', cursive;
+}
