@@ -1,2 +1,2 @@
 # Tronyximpex
-A market for best deals on products like steel pipes, Nut-Bolts ,etc.
+A best market for deals on products like steel pipes, Nut-Bolts ,etc.
