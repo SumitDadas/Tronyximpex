@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    /* padding: 20px; */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.cont-title{
+    margin: 30px;
+}
+
+form {
+
+    text-align: justify;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #aaa;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+label {
+    display: block;
+    margin: 10px 0px 5px 0px;
+    font-weight: bold;
+}
+
+input[type=text],
+textarea {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-bottom: 20px;
+}
+
+.cont-message{
+    align-items: margin;
+}
+
+button[type=submit] {
+    background-color: #4CAF50;
+    color: #fff;
+    margin-top: 50px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    /* float: right; */
+}
+
+button[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.cont-sub{
+  margin: 0px 0px 0px 37%;
+}
+
+
+/* footer */
+
+footer {
+    width: 100%;
+    position: relative;
+    background-color: #8a8989;
+    padding: 10px;
+    text-align: center;
+    bottom: 0px;
+  }
+  
+  .social-media {
+    margin-bottom: 20px;
+  }
+  
+  .social-media a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #555;
+    font-size: 20px;
+    padding: 0px 10px;
+  }
+
+  .insta:hover{
+    color: rgb(255, 63, 178);
+  }
+  
+  .social-media a:hover {
+    color: #0997ee;
+  }
+  
+  .fab {
+    font-size: inherit;
+  }
+  
+
+
+
+  /* navbar */
+
+  .logo{
+    nav-left: auto;
+    border-radius: 50px;
+    width: 170px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.nav-itembar{
+    margin-left: 60%;
+}
+
+.slideshow1{
+    border-radius: 70px;
+    padding: 4%;    
+    height: 450px;
+}
+.title{
+    font-size: 50px;
+    text-decoration: underline;
+    color:bisque;
+    padding-bottom: 4%;
+    font-family: 'Lobster', cursive;
+}
+
+.ss1-text{
+    border: 2px black solid;
+    margin: 0% 0% 5% 0%;
+    font-size: 30px;
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding: 1% 0% 1% 0%;
+    color: #fff;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    border-radius:50px;
+    
+}
+
+
+
+.ss3{
+  font-size: 25px;
+}
+
+
