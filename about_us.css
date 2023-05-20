@@ -110,10 +110,20 @@ h1 {
 }
 
 h2 {
+	text-align: center;
 	font-size: 24px;
 	margin-top: 50px;
 	margin-bottom: 10px;
 }
+/* 
+h3{
+	text-align: center;
+	margin: 10px 0px 10px 43%;
+	padding: 10px;
+	border: 2px black solid;
+	border-radius: 20px;
+	width:max-content;
+} */
 
 p {
 	font-size: 18px;
@@ -163,3 +173,10 @@ html,body{
 	padding: 0;
 	overflow-x: hidden;
   }
+
+
+/* 
+.li-items{
+	
+	margin: 10px 0px 10px 48%;
+} */

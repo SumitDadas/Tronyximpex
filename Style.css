@@ -16,7 +16,7 @@ html,body{
 }
 
 .nav-itembar{
-    margin-left: 60%;
+    margin-left: 50%;
 }
 
 .slideshow1{
@@ -63,7 +63,8 @@ html,body{
 .row{
     margin: 20px;
     padding: 0px 20px;
-}
+    
+  }
 
 .manu_heading{
     text-align: center;
@@ -78,8 +79,30 @@ h5{
 }
 
 .card-img{
+  height: 200px;
   cursor:pointer;
 }
+
+
+
+
+/* Exports */
+
+
+.Exports{
+  display: block;
+  margin: 0px 0px 20px 0px;
+
+}
+ .Exports img{
+  width: 95%;
+ }
+
+
+
+
+
+
 
 /* Footer */
 footer {
